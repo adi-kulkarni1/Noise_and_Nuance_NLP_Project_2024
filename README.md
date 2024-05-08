@@ -2,7 +2,7 @@
 Code for the paper "Noise and Nuance: Impact of Input Noise on Translation Accuracy in Transformer Models", by Nandan Sarkar, Aditya Kulkarni, Andrew Pan
 
 ## Instructions to Run Code
-First, download the dataset ```NLP Class Project Data - OfficialInputData .csv```, and run ```ConvertEnglishDatasetToGermanInputs_NLPClassProject.ipynb```.
+First, download the dataset ```NLP Class Project Data - OfficialInputData .csv```, and run ```ConvertEnglishDatasetToGermanInputs_NLPClassProject.ipynb``` if new English inputs are added to convert into German inputs for the experiments.
 
 Second, run the experiment file ```ExperimentCode_NLPClassProject.ipynb``` . All installations are at the top of the notebook, so necessary packages are automatically installed.
 
